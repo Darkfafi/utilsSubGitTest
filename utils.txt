@@ -2,3 +2,9 @@ public void SuperHandyMethod(string parameter)
 {
 	UnityEngine.Debug.Log(parameter + "Cool Additional stuff");
 }
+
+
+public void SecondHandyMethod(int integerThing)
+{
+	return integerThing * integerThing * Mathf.PI;
+}
