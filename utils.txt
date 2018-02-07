@@ -1,0 +1,4 @@
+public void SuperHandyMethod(string parameter)
+{
+	UnityEngine.Debug.Log(parameter + "Cool Additional stuff");
+}
